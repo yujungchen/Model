@@ -1,0 +1,60 @@
+#
+## Alias OBJ Material File
+# Hand coded as sample for IGLU for SimpleDrawCornellBox6 Example
+
+newmtl Yellow
+	 Ka 0 0 0
+	 Kd 1.0 1.0 0.0
+	 Ks 0 0 0
+newmtl White
+	 Ka 0 0 0
+	 Kd 1.0 1.0 1.0
+	 Ks 0 0 0
+	 map_Kd models/textures/checkerboard_GO.ppm
+newmtl Purple
+	 Ka 0 0 0
+	 Kd 1.0 0.0 1.0
+	 Ks 0 0 0
+newmtl Purple1
+	 Ka 0 0 0
+	 Kd 0.5 0.0 1.0
+	 Ks 0 0 0
+newmtl Blue
+	 Ka 0 0 0
+	 Kd 0.0 1.0 1.0
+	 Ks 0 0 0
+newmtl BabyBlue
+	 Ka 0 0 0
+	 Kd 0.0 0.5 1.0
+	 Ks 0 0 0
+newmtl Red
+	 Ka 0 0 0
+	 Kd 1.0 0.0 0.0
+	 Ks 0 0 0
+newmtl Green
+	 Ka 0 0 0
+	 Kd 0.0 1.0 0.0
+	 Ks 0 0 0
+newmtl LinenGreen
+	 Ka 0 0 0
+	 Kd 0.6 0.8 0.2
+	 Ks 0 0 0
+newmtl Orange
+	 Ka 0 0 0
+	 Kd 1.0 0.5 0.0
+	 Ks 0 0 0
+newmtl Pink
+	 Ka 0 0 0
+	 Kd 1.0 0.5 0.5
+	 Ks 0 0 0
+newmtl Glossy
+	 Ka 0 0 0
+	 Kd 0 0 0
+	 Ks 0.7 0.7 0.7
+	 Ns 100
+newmtl GlossyLow
+	 Ka 0 0 0
+	 Kd 0 0 0
+	 Ks 0.7 0.7 0.7
+	 Ns 50
+

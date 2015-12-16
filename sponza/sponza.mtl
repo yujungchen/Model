@@ -1,0 +1,157 @@
+# 3ds Max Wavefront OBJ Exporter v0.97b - (c)2007 guruware
+# File Created: 20.08.2010 18:13:43
+
+newmtl leaf
+	Ka 0 0 0
+	Kd 1.4 1.4 1.4
+	Ks 0 0 0
+	map_Kd ../models/sponza/textures/sponza_thorn_diff.ppm
+
+newmtl vase_round
+	Ka 0 0 0
+	Kd 1.4 1.4 1.4
+	Ks 0 0 0
+	map_Kd ../models/sponza/textures/vase_round.ppm
+
+newmtl Material__57
+	Ka 0 0 0
+	Kd 1.4 1.4 1.4
+	Ks 0 0 0
+	map_Kd ../models/sponza/textures/vase_plant.ppm
+
+newmtl Material__298
+	Ka 0 0 0
+	Kd 1.4 1.4 1.4
+	Ks 0 0 0
+	map_Kd ../models/sponza/textures/background.ppm
+
+newmtl banner
+	Ka 0 0 0
+	Kd 1.4 1.4 1.4
+	Ks 0 0 0
+	map_Kd ../models/sponza/textures/sponza_fabric_diff.ppm
+
+newmtl bricks
+	Ka 0 0 0
+	Kd 1.4 1.4 1.4
+	Ks 0 0 0
+	map_Kd ../models/sponza/textures/spnza_bricks_a_diff.ppm
+
+newmtl arch
+	Ka 0 0 0
+	Kd 1.4 1.4 1.4
+	Ks 0 0 0
+	map_Kd ../models/sponza/textures/sponza_arch_diff.ppm
+
+newmtl ceiling
+	Ka 0 0 0
+	Kd 1.4 1.4 1.4
+	Ks 0 0 0
+	map_Kd ../models/sponza/textures/sponza_ceiling_a_diff.ppm
+
+newmtl column_a
+	Ka 0 0 0
+	Kd 1.4 1.4 1.4
+	Ks 0 0 0
+	map_Kd ../models/sponza/textures/sponza_column_a_diff.ppm
+
+newmtl floor
+	Ka 0 0 0
+	Kd 1.4 1.4 1.4
+	Ks 0 0 0
+	map_Kd ../models/sponza/textures/sponza_floor_a_diff.ppm
+	
+newmtl column_c
+	Ka 0 0 0
+	Kd 1.4 1.4 1.4
+	Ks 0 0 0
+	map_Kd ../models/sponza/textures/sponza_column_c_diff.ppm
+
+newmtl details
+	Ka 0 0 0
+	Kd 1.4 1.4 1.4
+	Ks 0 0 0
+	map_Kd ../models/sponza/textures/sponza_details_diff.ppm
+
+newmtl column_b
+	Ka 0 0 0
+	Kd 1.4 1.4 1.4
+	Ks 0 0 0
+	map_Kd ../models/sponza/textures/sponza_column_b_diff.ppm
+
+newmtl Material__47
+	Ka 0 0 0
+	Kd 1.4 1.4 1.4
+	Ks 0 0 0
+
+newmtl flagpole
+	Ka 0 0 0
+	Kd 1.4 1.4 1.4
+	Ks 0 0 0
+	map_Kd ../models/sponza/textures/sponza_flagpole_diff.ppm
+
+newmtl fabric_e
+	Ka 0 0 0
+	Kd 1.4 1.4 1.4
+	Ks 0 0 0
+	map_Kd ../models/sponza/textures/sponza_fabric_green_diff.ppm
+
+newmtl fabric_d
+	Ka 0 0 0
+	Kd 1.4 1.4 1.4
+	Ks 0 0 0
+	map_Kd ../models/sponza/textures/sponza_fabric_blue_diff.ppm
+
+newmtl fabric_a
+	Ka 0 0 0
+	Kd 1.4 1.4 1.4
+	Ks 0 0 0
+	map_Kd ../models/sponza/textures/sponza_fabric_diff.ppm
+
+newmtl fabric_g
+	Ka 0 0 0
+	Kd 1.4 1.4 1.4
+	Ks 0 0 0
+	map_Kd ../models/sponza/textures/sponza_curtain_blue_diff.ppm
+
+newmtl fabric_c
+	Ka 0 0 0
+	Kd 1.4 1.4 1.4
+	Ks 0 0 0
+	map_Kd ../models/sponza/textures/sponza_curtain_diff.ppm
+
+newmtl fabric_f
+	Ka 0 0 0
+	Kd 1.4 1.4 1.4
+	Ks 0 0 0
+	map_Kd ../models/sponza/textures/sponza_curtain_green_diff.ppm
+
+newmtl chain
+	Ka 0 0 0
+	Kd 1.4 1.4 1.4
+	Ks 0 0 0
+	map_Kd ../models/sponza/textures/chain_texture.ppm
+
+newmtl vase_hanging
+	Ka 0 0 0
+	Kd 1.4 1.4 1.4
+	Ks 0 0 0
+	map_Kd ../models/sponza/textures/vase_hanging.ppm
+
+newmtl vase
+	Ka 0 0 0
+	Kd 1.4 1.4 1.4
+	Ks 0 0 0
+	map_Kd ../models/sponza/textures/vase_dif.ppm
+
+newmtl Material__25
+	Ka 0 0 0
+	Kd 1.4 1.4 1.4
+	Ks 0 0 0
+	map_Kd ../models/sponza/textures/lion.ppm
+
+newmtl roof
+	Ka 0 0 0
+	Kd 1.4 1.4 1.4
+	Ks 0 0 0
+	map_Kd ../models/sponza/textures/sponza_roof_diff.ppm
