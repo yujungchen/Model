@@ -9,7 +9,7 @@ Ks 0.00 0.00 0.00
 
 
 newmtl WhiteGlossy
-Ns 5
+Ns 100
 Ka 0.00 0.00 0.00
 Kd 0.0 0.0 0.0
 Ks 1.0 1.0 1.0
@@ -30,11 +30,6 @@ Ka 0.00 0.00 0.00
 Kd 0.00 0.72 0.99
 Ks 0.00 0.00 0.00
 
-newmtl Glass
-Ka 1.70 0.00 0.00
-Kd 0.00 0.72 0.99
-Ks 0.00 0.00 0.00
-
 newmtl Orange
 Ka 0.00 0.00 0.00
 Kd 0.99 0.72 0.00
@@ -47,7 +42,7 @@ newmtl Glossy
 	 Ns 500
 
 newmtl Glass
-	 Ka 0 0 0
-	 Kd 0 0 0
-	 Ks 0 0 0
-	 Ni 1.5
+Ka 0.00 0.00 0.00
+Kd 0.0 0.0 0.0
+Ks 1.0 1.0 1.0
+E 1.5
