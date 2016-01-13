@@ -1,60 +1,32 @@
-#
-## Alias OBJ Material File
-# Hand coded as sample for IGLU for SimpleDrawCornellBox6 Example
+# 3ds Max Wavefront OBJ Exporter v0.97b - (c)2007 guruware
+# File Created: 13.01.2015 11:57:49
 
-newmtl Yellow
-	 Ka 0 0 0
-	 Kd 1.0 1.0 0.0
-	 Ks 0 0 0
-newmtl White
-	 Ka 0 0 0
-	 Kd 1.0 1.0 1.0
-	 Ks 0 0 0
-	 map_Kd models/textures/checkerboard_GO.ppm
-newmtl Purple
-	 Ka 0 0 0
-	 Kd 1.0 0.0 1.0
-	 Ks 0 0 0
-newmtl Purple1
-	 Ka 0 0 0
-	 Kd 0.5 0.0 1.0
-	 Ks 0 0 0
-newmtl Blue
-	 Ka 0 0 0
-	 Kd 0.0 1.0 1.0
-	 Ks 0 0 0
-newmtl BabyBlue
-	 Ka 0 0 0
-	 Kd 0.0 0.5 1.0
-	 Ks 0 0 0
-newmtl Red
-	 Ka 0 0 0
-	 Kd 1.0 0.0 0.0
-	 Ks 0 0 0
-newmtl Green
-	 Ka 0 0 0
-	 Kd 0.0 1.0 0.0
-	 Ks 0 0 0
-newmtl LinenGreen
-	 Ka 0 0 0
-	 Kd 0.6 0.8 0.2
-	 Ks 0 0 0
-newmtl Orange
-	 Ka 0 0 0
-	 Kd 1.0 0.5 0.0
-	 Ks 0 0 0
-newmtl Pink
-	 Ka 0 0 0
-	 Kd 1.0 0.5 0.5
-	 Ks 0 0 0
-newmtl Glossy
-	 Ka 0 0 0
-	 Kd 0 0 0
-	 Ks 0.7 0.7 0.7
-	 Ns 100
-newmtl GlossyLow
-	 Ka 0 0 0
-	 Kd 0 0 0
-	 Ks 0.7 0.7 0.7
-	 Ns 50
+newmtl Top
+Ka 0.00 0.00 0.00
+Kd 0.8 0.8 0.8
+Ks 0.00 0.00 0.00
 
+newmtl Left
+Ka 0.00 0.00 0.00
+Kd 0.8 0.05 0.05
+Ks 0.00 0.00 0.00
+
+newmtl Right
+Ka 0.00 0.00 0.00
+Kd 0.05 0.8 0.05
+Ks 0.00 0.00 0.00
+
+newmtl Dragon
+Ka 0.0 0.0 0.0
+Kd 1.0 1.0 1.0
+Ks 0.0 0.0 0.0
+
+newmtl Floor
+Ka 0.00 0.00 0.00
+Kd 0.8 0.8 0.8
+Ks 0.00 0.00 0.00
+
+newmtl Back
+Ka 0.00 0.00 0.00
+Kd 0.8 0.8 0.8
+Ks 0.00 0.00 0.00
