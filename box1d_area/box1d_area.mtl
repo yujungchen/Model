@@ -1,0 +1,40 @@
+# 3ds Max Wavefront OBJ Exporter v0.97b - (c)2007 guruware
+# File Created: 13.01.2015 11:57:49
+
+newmtl Top
+Ka 0.00 0.00 0.00
+Kd 0.8 0.8 0.8
+Ks 0.00 0.00 0.00
+
+newmtl Left
+Ka 0.00 0.00 0.00
+Kd 0.8 0.05 0.05
+Ks 0.00 0.00 0.00
+
+newmtl Right
+Ka 0.00 0.00 0.00
+Kd 0.05 0.8 0.05
+Ks 0.00 0.00 0.00
+
+newmtl Dragon
+Ka 0.0 0.0 0.0
+Kd 0.0 0.0 0.0
+Ks 0.8 0.8 1.0
+E 1.5
+
+newmtl Floor
+Ka 0.00 0.00 0.00
+Kd 0.00 0.00 0.00
+Ks 1.0 1.0 1.0
+Ns 50
+
+newmtl Back
+Ka 0.00 0.00 0.00
+Kd 0.8 0.8 0.8
+Ks 0.00 0.00 0.00
+
+newmtl AreaLight
+	Ka 0 0 0
+	Kd 1 1 1
+	Ks 0 0 0
+	e 13.0 13.0 13.0
