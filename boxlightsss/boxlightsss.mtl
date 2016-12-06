@@ -1,0 +1,78 @@
+#
+## Alias OBJ Material File
+# Hand coded as sample for IGLU for SimpleDrawCornellBox6 Example
+
+newmtl White
+Ka 0.00 0.00 0.00
+Kd 0.8 0.8 0.8
+Ks 0.00 0.00 0.00
+
+
+newmtl WhiteGlossy
+Ns 100
+Ka 0.00 0.00 0.00
+Kd 0.00 0.00 0.00
+Ks 1.0 1.0 1.0
+
+
+newmtl Red
+Ka 0.00 0.00 0.00
+Kd 0.8 0.05 0.05
+Ks 0.00 0.00 0.00
+
+
+newmtl Green
+Ka 0.00 0.00 0.00
+Kd 0.05 0.8 0.05
+Ks 0.00 0.00 0.00
+
+newmtl Blue
+Ka 0.00 0.00 0.00
+Kd 0.00 0.72 0.99
+Ks 0.00 0.00 0.00
+
+
+newmtl Orange
+Ka 0.00 0.00 0.00
+Kd 0.99 0.72 0.00
+Ks 0.00 0.00 0.00
+
+newmtl Bump
+Ka 0.00 0.00 0.00
+Kd 1 1 1
+Ks 0.00 0.00 0.00
+map_Kb ../Model/textures/bump.ppm
+
+newmtl Bump2
+Ka 0.00 0.00 0.00
+Kd 1 1 1
+Ks 0.00 0.00 0.00
+map_Kb ../Model/textures/bump2.ppm
+
+newmtl Marble
+Ka 0.00 0.00 0.00
+Kd 0.83 0.79 0.75
+Ks 0.0 0.0 0.0
+ss 2.19 2.62 3.00
+sa 0.0021 0.0041 0.0071
+E 1.5
+
+
+newmtl Glossy
+	 Ka 0 0 0
+	 Kd 0 0 0
+	 Ks 1 1 1
+	 Ns 500
+
+newmtl Glass
+Ka 0.00 0.00 0.00
+Kd 0.0 0.0 0.0
+Ks 1.0 1.0 1.0
+E 1.5
+
+newmtl AreaLight
+	Ka 0 0 0
+	Kd 1 1 1
+	Ks 0 0 0
+	Ns 0
+	e 10.0 10.0 10.0
